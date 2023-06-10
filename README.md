@@ -1,4 +1,4 @@
-<h1 align="center">Hi! 👋   🏼 </h1><p> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=I'm+Krisztian+Pletser" alt="Typing SVG" /></a></p>
+<h1 align="center">Hi! 👋 I'm Krisztian Pletser</h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+motivated+Frontend+Developer." alt="Typing SVG" /></a></h3>
 
 - 🌱 I’m currently learning **React JS**,**Next JS**
